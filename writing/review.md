@@ -96,6 +96,7 @@ TODO: Please create a filled checkbox for each review task that you completed:
 
 - [] Re-read all of the content in the covered chapters of the course textbooks
 - [] Studied and executed all of the Python source code in the Jupyter notebooks
+- [] Correctly answered all of the summary questions in the Jupyter notebooks
 - [] Reviewed and understood all of the technical content in the course slides
 - [] Completed all source code surveys, programming projects, and engineering efforts
 - [] Confirmed that you have a passing build in all of the aforementioned projects
